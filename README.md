@@ -12,7 +12,7 @@ For my second project on the same SF Crime Dataset, I will ustilize the EDA resu
 
 I have creates a list of questions, answers to which can help me better understand crime data in both structural and contextual respects. I will put down my thoughts underneath my codes. Along with answering these questions, a cleared picture of SF Crimes from 2003 to 2018 will be presented. 
 
-##3. Findings & Solutions
+## 3. Findings & Solutions
 Underneath each question, I put down findings, potential causes and actionable advice for SFPD in the "Remark" section. In the end there is a "Summary" compiling all findings, together with what I believe SFPD could do to better community safety.
 
 Now, let's get started.
